@@ -12,9 +12,9 @@ Url Example [Url Here](http://sanfy.in)
 >
 > Nice Bock Quotes
 >
-> Ending Blockquotes with *bold*.
+> Ending Blockquotes with *italic*.
 
-Using **another bold**
+Using **bold**
 
 ### Bullet List
 * Item 1
